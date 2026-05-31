@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**miyabi-nari/miyabi-nari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍👩‍👧 About Us
+Parent-child learning project.
+Learning programming together step by step.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Git / GitHub
+- C++ / Python basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What We're Doing
+- Creating small projects
+- Practicing coding together
+
+## 🎯 Goals
+- Enjoy learning
+- Build simple apps as a family
